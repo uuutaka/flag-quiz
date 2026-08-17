@@ -1,2 +1,0 @@
-# flag-quiz
-flag quiz
