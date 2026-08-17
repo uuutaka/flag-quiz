@@ -1,0 +1,1374 @@
+{
+  "meta": {
+    "schema_version": 1,
+    "total": 195,
+    "set": "UN193+HolySee+Palestine"
+  },
+  "countries": [
+    {
+      "id": "AF",
+      "code": "AF",
+      "name": "アフガニスタン",
+      "flag": "🇦🇫",
+      "sort_name": "Afghanistan"
+    },
+    {
+      "id": "AL",
+      "code": "AL",
+      "name": "アルバニア",
+      "flag": "🇦🇱",
+      "sort_name": "Albania"
+    },
+    {
+      "id": "DZ",
+      "code": "DZ",
+      "name": "アルジェリア",
+      "flag": "🇩🇿",
+      "sort_name": "Algeria"
+    },
+    {
+      "id": "AD",
+      "code": "AD",
+      "name": "アンドラ",
+      "flag": "🇦🇩",
+      "sort_name": "Andorra"
+    },
+    {
+      "id": "AO",
+      "code": "AO",
+      "name": "アンゴラ",
+      "flag": "🇦🇴",
+      "sort_name": "Angola"
+    },
+    {
+      "id": "AG",
+      "code": "AG",
+      "name": "アンティグア・バーブーダ",
+      "flag": "🇦🇬",
+      "sort_name": "Antigua and Barbuda"
+    },
+    {
+      "id": "AR",
+      "code": "AR",
+      "name": "アルゼンチン",
+      "flag": "🇦🇷",
+      "sort_name": "Argentina"
+    },
+    {
+      "id": "AM",
+      "code": "AM",
+      "name": "アルメニア",
+      "flag": "🇦🇲",
+      "sort_name": "Armenia"
+    },
+    {
+      "id": "AU",
+      "code": "AU",
+      "name": "オーストラリア",
+      "flag": "🇦🇺",
+      "sort_name": "Australia"
+    },
+    {
+      "id": "AT",
+      "code": "AT",
+      "name": "オーストリア",
+      "flag": "🇦🇹",
+      "sort_name": "Austria"
+    },
+    {
+      "id": "AZ",
+      "code": "AZ",
+      "name": "アゼルバイジャン",
+      "flag": "🇦🇿",
+      "sort_name": "Azerbaijan"
+    },
+    {
+      "id": "BS",
+      "code": "BS",
+      "name": "バハマ",
+      "flag": "🇧🇸",
+      "sort_name": "Bahamas"
+    },
+    {
+      "id": "BH",
+      "code": "BH",
+      "name": "バーレーン",
+      "flag": "🇧🇭",
+      "sort_name": "Bahrain"
+    },
+    {
+      "id": "BD",
+      "code": "BD",
+      "name": "バングラデシュ",
+      "flag": "🇧🇩",
+      "sort_name": "Bangladesh"
+    },
+    {
+      "id": "BB",
+      "code": "BB",
+      "name": "バルバドス",
+      "flag": "🇧🇧",
+      "sort_name": "Barbados"
+    },
+    {
+      "id": "BY",
+      "code": "BY",
+      "name": "ベラルーシ",
+      "flag": "🇧🇾",
+      "sort_name": "Belarus"
+    },
+    {
+      "id": "BE",
+      "code": "BE",
+      "name": "ベルギー",
+      "flag": "🇧🇪",
+      "sort_name": "Belgium"
+    },
+    {
+      "id": "BZ",
+      "code": "BZ",
+      "name": "ベリーズ",
+      "flag": "🇧🇿",
+      "sort_name": "Belize"
+    },
+    {
+      "id": "BJ",
+      "code": "BJ",
+      "name": "ベナン",
+      "flag": "🇧🇯",
+      "sort_name": "Benin"
+    },
+    {
+      "id": "BT",
+      "code": "BT",
+      "name": "ブータン",
+      "flag": "🇧🇹",
+      "sort_name": "Bhutan"
+    },
+    {
+      "id": "BO",
+      "code": "BO",
+      "name": "ボリビア",
+      "flag": "🇧🇴",
+      "sort_name": "Bolivia, Plurinational State of"
+    },
+    {
+      "id": "BA",
+      "code": "BA",
+      "name": "ボスニア・ヘルツェゴビナ",
+      "flag": "🇧🇦",
+      "sort_name": "Bosnia and Herzegovina"
+    },
+    {
+      "id": "BW",
+      "code": "BW",
+      "name": "ボツワナ",
+      "flag": "🇧🇼",
+      "sort_name": "Botswana"
+    },
+    {
+      "id": "BR",
+      "code": "BR",
+      "name": "ブラジル",
+      "flag": "🇧🇷",
+      "sort_name": "Brazil"
+    },
+    {
+      "id": "BN",
+      "code": "BN",
+      "name": "ブルネイ",
+      "flag": "🇧🇳",
+      "sort_name": "Brunei Darussalam"
+    },
+    {
+      "id": "BG",
+      "code": "BG",
+      "name": "ブルガリア",
+      "flag": "🇧🇬",
+      "sort_name": "Bulgaria"
+    },
+    {
+      "id": "BF",
+      "code": "BF",
+      "name": "ブルキナファソ",
+      "flag": "🇧🇫",
+      "sort_name": "Burkina Faso"
+    },
+    {
+      "id": "BI",
+      "code": "BI",
+      "name": "ブルンジ",
+      "flag": "🇧🇮",
+      "sort_name": "Burundi"
+    },
+    {
+      "id": "CV",
+      "code": "CV",
+      "name": "カーボベルデ",
+      "flag": "🇨🇻",
+      "sort_name": "Cabo Verde"
+    },
+    {
+      "id": "KH",
+      "code": "KH",
+      "name": "カンボジア",
+      "flag": "🇰🇭",
+      "sort_name": "Cambodia"
+    },
+    {
+      "id": "CM",
+      "code": "CM",
+      "name": "カメルーン",
+      "flag": "🇨🇲",
+      "sort_name": "Cameroon"
+    },
+    {
+      "id": "CA",
+      "code": "CA",
+      "name": "カナダ",
+      "flag": "🇨🇦",
+      "sort_name": "Canada"
+    },
+    {
+      "id": "CF",
+      "code": "CF",
+      "name": "中央アフリカ",
+      "flag": "🇨🇫",
+      "sort_name": "Central African Republic"
+    },
+    {
+      "id": "TD",
+      "code": "TD",
+      "name": "チャド",
+      "flag": "🇹🇩",
+      "sort_name": "Chad"
+    },
+    {
+      "id": "CL",
+      "code": "CL",
+      "name": "チリ",
+      "flag": "🇨🇱",
+      "sort_name": "Chile"
+    },
+    {
+      "id": "CN",
+      "code": "CN",
+      "name": "中国",
+      "flag": "🇨🇳",
+      "sort_name": "China"
+    },
+    {
+      "id": "CO",
+      "code": "CO",
+      "name": "コロンビア",
+      "flag": "🇨🇴",
+      "sort_name": "Colombia"
+    },
+    {
+      "id": "KM",
+      "code": "KM",
+      "name": "コモロ",
+      "flag": "🇰🇲",
+      "sort_name": "Comoros"
+    },
+    {
+      "id": "CG",
+      "code": "CG",
+      "name": "コンゴ共和国",
+      "flag": "🇨🇬",
+      "sort_name": "Congo"
+    },
+    {
+      "id": "CD",
+      "code": "CD",
+      "name": "コンゴ民主共和国",
+      "flag": "🇨🇩",
+      "sort_name": "Congo, The Democratic Republic of the"
+    },
+    {
+      "id": "CR",
+      "code": "CR",
+      "name": "コスタリカ",
+      "flag": "🇨🇷",
+      "sort_name": "Costa Rica"
+    },
+    {
+      "id": "HR",
+      "code": "HR",
+      "name": "クロアチア",
+      "flag": "🇭🇷",
+      "sort_name": "Croatia"
+    },
+    {
+      "id": "CU",
+      "code": "CU",
+      "name": "キューバ",
+      "flag": "🇨🇺",
+      "sort_name": "Cuba"
+    },
+    {
+      "id": "CY",
+      "code": "CY",
+      "name": "キプロス",
+      "flag": "🇨🇾",
+      "sort_name": "Cyprus"
+    },
+    {
+      "id": "CZ",
+      "code": "CZ",
+      "name": "チェコ",
+      "flag": "🇨🇿",
+      "sort_name": "Czechia"
+    },
+    {
+      "id": "CI",
+      "code": "CI",
+      "name": "コートジボワール",
+      "flag": "🇨🇮",
+      "sort_name": "Côte d'Ivoire"
+    },
+    {
+      "id": "DK",
+      "code": "DK",
+      "name": "デンマーク",
+      "flag": "🇩🇰",
+      "sort_name": "Denmark"
+    },
+    {
+      "id": "DJ",
+      "code": "DJ",
+      "name": "ジブチ",
+      "flag": "🇩🇯",
+      "sort_name": "Djibouti"
+    },
+    {
+      "id": "DM",
+      "code": "DM",
+      "name": "ドミニカ国",
+      "flag": "🇩🇲",
+      "sort_name": "Dominica"
+    },
+    {
+      "id": "DO",
+      "code": "DO",
+      "name": "ドミニカ共和国",
+      "flag": "🇩🇴",
+      "sort_name": "Dominican Republic"
+    },
+    {
+      "id": "EC",
+      "code": "EC",
+      "name": "エクアドル",
+      "flag": "🇪🇨",
+      "sort_name": "Ecuador"
+    },
+    {
+      "id": "EG",
+      "code": "EG",
+      "name": "エジプト",
+      "flag": "🇪🇬",
+      "sort_name": "Egypt"
+    },
+    {
+      "id": "SV",
+      "code": "SV",
+      "name": "エルサルバドル",
+      "flag": "🇸🇻",
+      "sort_name": "El Salvador"
+    },
+    {
+      "id": "GQ",
+      "code": "GQ",
+      "name": "赤道ギニア",
+      "flag": "🇬🇶",
+      "sort_name": "Equatorial Guinea"
+    },
+    {
+      "id": "ER",
+      "code": "ER",
+      "name": "エリトリア",
+      "flag": "🇪🇷",
+      "sort_name": "Eritrea"
+    },
+    {
+      "id": "EE",
+      "code": "EE",
+      "name": "エストニア",
+      "flag": "🇪🇪",
+      "sort_name": "Estonia"
+    },
+    {
+      "id": "SZ",
+      "code": "SZ",
+      "name": "エスワティニ",
+      "flag": "🇸🇿",
+      "sort_name": "Eswatini"
+    },
+    {
+      "id": "ET",
+      "code": "ET",
+      "name": "エチオピア",
+      "flag": "🇪🇹",
+      "sort_name": "Ethiopia"
+    },
+    {
+      "id": "FJ",
+      "code": "FJ",
+      "name": "フィジー",
+      "flag": "🇫🇯",
+      "sort_name": "Fiji"
+    },
+    {
+      "id": "FI",
+      "code": "FI",
+      "name": "フィンランド",
+      "flag": "🇫🇮",
+      "sort_name": "Finland"
+    },
+    {
+      "id": "FR",
+      "code": "FR",
+      "name": "フランス",
+      "flag": "🇫🇷",
+      "sort_name": "France"
+    },
+    {
+      "id": "GA",
+      "code": "GA",
+      "name": "ガボン",
+      "flag": "🇬🇦",
+      "sort_name": "Gabon"
+    },
+    {
+      "id": "GM",
+      "code": "GM",
+      "name": "ガンビア",
+      "flag": "🇬🇲",
+      "sort_name": "Gambia"
+    },
+    {
+      "id": "GE",
+      "code": "GE",
+      "name": "ジョージア",
+      "flag": "🇬🇪",
+      "sort_name": "Georgia"
+    },
+    {
+      "id": "DE",
+      "code": "DE",
+      "name": "ドイツ",
+      "flag": "🇩🇪",
+      "sort_name": "Germany"
+    },
+    {
+      "id": "GH",
+      "code": "GH",
+      "name": "ガーナ",
+      "flag": "🇬🇭",
+      "sort_name": "Ghana"
+    },
+    {
+      "id": "GR",
+      "code": "GR",
+      "name": "ギリシャ",
+      "flag": "🇬🇷",
+      "sort_name": "Greece"
+    },
+    {
+      "id": "GD",
+      "code": "GD",
+      "name": "グレナダ",
+      "flag": "🇬🇩",
+      "sort_name": "Grenada"
+    },
+    {
+      "id": "GT",
+      "code": "GT",
+      "name": "グアテマラ",
+      "flag": "🇬🇹",
+      "sort_name": "Guatemala"
+    },
+    {
+      "id": "GN",
+      "code": "GN",
+      "name": "ギニア",
+      "flag": "🇬🇳",
+      "sort_name": "Guinea"
+    },
+    {
+      "id": "GW",
+      "code": "GW",
+      "name": "ギニアビサウ",
+      "flag": "🇬🇼",
+      "sort_name": "Guinea-Bissau"
+    },
+    {
+      "id": "GY",
+      "code": "GY",
+      "name": "ガイアナ",
+      "flag": "🇬🇾",
+      "sort_name": "Guyana"
+    },
+    {
+      "id": "HT",
+      "code": "HT",
+      "name": "ハイチ",
+      "flag": "🇭🇹",
+      "sort_name": "Haiti"
+    },
+    {
+      "id": "VA",
+      "code": "VA",
+      "name": "バチカン市国",
+      "flag": "🇻🇦",
+      "sort_name": "Holy See (Vatican City State)"
+    },
+    {
+      "id": "HN",
+      "code": "HN",
+      "name": "ホンジュラス",
+      "flag": "🇭🇳",
+      "sort_name": "Honduras"
+    },
+    {
+      "id": "HU",
+      "code": "HU",
+      "name": "ハンガリー",
+      "flag": "🇭🇺",
+      "sort_name": "Hungary"
+    },
+    {
+      "id": "IS",
+      "code": "IS",
+      "name": "アイスランド",
+      "flag": "🇮🇸",
+      "sort_name": "Iceland"
+    },
+    {
+      "id": "IN",
+      "code": "IN",
+      "name": "インド",
+      "flag": "🇮🇳",
+      "sort_name": "India"
+    },
+    {
+      "id": "ID",
+      "code": "ID",
+      "name": "インドネシア",
+      "flag": "🇮🇩",
+      "sort_name": "Indonesia"
+    },
+    {
+      "id": "IR",
+      "code": "IR",
+      "name": "イラン",
+      "flag": "🇮🇷",
+      "sort_name": "Iran, Islamic Republic of"
+    },
+    {
+      "id": "IQ",
+      "code": "IQ",
+      "name": "イラク",
+      "flag": "🇮🇶",
+      "sort_name": "Iraq"
+    },
+    {
+      "id": "IE",
+      "code": "IE",
+      "name": "アイルランド",
+      "flag": "🇮🇪",
+      "sort_name": "Ireland"
+    },
+    {
+      "id": "IL",
+      "code": "IL",
+      "name": "イスラエル",
+      "flag": "🇮🇱",
+      "sort_name": "Israel"
+    },
+    {
+      "id": "IT",
+      "code": "IT",
+      "name": "イタリア",
+      "flag": "🇮🇹",
+      "sort_name": "Italy"
+    },
+    {
+      "id": "JM",
+      "code": "JM",
+      "name": "ジャマイカ",
+      "flag": "🇯🇲",
+      "sort_name": "Jamaica"
+    },
+    {
+      "id": "JP",
+      "code": "JP",
+      "name": "日本",
+      "flag": "🇯🇵",
+      "sort_name": "Japan"
+    },
+    {
+      "id": "JO",
+      "code": "JO",
+      "name": "ヨルダン",
+      "flag": "🇯🇴",
+      "sort_name": "Jordan"
+    },
+    {
+      "id": "KZ",
+      "code": "KZ",
+      "name": "カザフスタン",
+      "flag": "🇰🇿",
+      "sort_name": "Kazakhstan"
+    },
+    {
+      "id": "KE",
+      "code": "KE",
+      "name": "ケニア",
+      "flag": "🇰🇪",
+      "sort_name": "Kenya"
+    },
+    {
+      "id": "KI",
+      "code": "KI",
+      "name": "キリバス",
+      "flag": "🇰🇮",
+      "sort_name": "Kiribati"
+    },
+    {
+      "id": "KP",
+      "code": "KP",
+      "name": "北朝鮮",
+      "flag": "🇰🇵",
+      "sort_name": "Korea, Democratic People's Republic of"
+    },
+    {
+      "id": "KR",
+      "code": "KR",
+      "name": "韓国",
+      "flag": "🇰🇷",
+      "sort_name": "Korea, Republic of"
+    },
+    {
+      "id": "KW",
+      "code": "KW",
+      "name": "クウェート",
+      "flag": "🇰🇼",
+      "sort_name": "Kuwait"
+    },
+    {
+      "id": "KG",
+      "code": "KG",
+      "name": "キルギス",
+      "flag": "🇰🇬",
+      "sort_name": "Kyrgyzstan"
+    },
+    {
+      "id": "LA",
+      "code": "LA",
+      "name": "ラオス",
+      "flag": "🇱🇦",
+      "sort_name": "Lao People's Democratic Republic"
+    },
+    {
+      "id": "LV",
+      "code": "LV",
+      "name": "ラトビア",
+      "flag": "🇱🇻",
+      "sort_name": "Latvia"
+    },
+    {
+      "id": "LB",
+      "code": "LB",
+      "name": "レバノン",
+      "flag": "🇱🇧",
+      "sort_name": "Lebanon"
+    },
+    {
+      "id": "LS",
+      "code": "LS",
+      "name": "レソト",
+      "flag": "🇱🇸",
+      "sort_name": "Lesotho"
+    },
+    {
+      "id": "LR",
+      "code": "LR",
+      "name": "リベリア",
+      "flag": "🇱🇷",
+      "sort_name": "Liberia"
+    },
+    {
+      "id": "LY",
+      "code": "LY",
+      "name": "リビア",
+      "flag": "🇱🇾",
+      "sort_name": "Libya"
+    },
+    {
+      "id": "LI",
+      "code": "LI",
+      "name": "リヒテンシュタイン",
+      "flag": "🇱🇮",
+      "sort_name": "Liechtenstein"
+    },
+    {
+      "id": "LT",
+      "code": "LT",
+      "name": "リトアニア",
+      "flag": "🇱🇹",
+      "sort_name": "Lithuania"
+    },
+    {
+      "id": "LU",
+      "code": "LU",
+      "name": "ルクセンブルク",
+      "flag": "🇱🇺",
+      "sort_name": "Luxembourg"
+    },
+    {
+      "id": "MG",
+      "code": "MG",
+      "name": "マダガスカル",
+      "flag": "🇲🇬",
+      "sort_name": "Madagascar"
+    },
+    {
+      "id": "MW",
+      "code": "MW",
+      "name": "マラウイ",
+      "flag": "🇲🇼",
+      "sort_name": "Malawi"
+    },
+    {
+      "id": "MY",
+      "code": "MY",
+      "name": "マレーシア",
+      "flag": "🇲🇾",
+      "sort_name": "Malaysia"
+    },
+    {
+      "id": "MV",
+      "code": "MV",
+      "name": "モルディブ",
+      "flag": "🇲🇻",
+      "sort_name": "Maldives"
+    },
+    {
+      "id": "ML",
+      "code": "ML",
+      "name": "マリ",
+      "flag": "🇲🇱",
+      "sort_name": "Mali"
+    },
+    {
+      "id": "MT",
+      "code": "MT",
+      "name": "マルタ",
+      "flag": "🇲🇹",
+      "sort_name": "Malta"
+    },
+    {
+      "id": "MH",
+      "code": "MH",
+      "name": "マーシャル諸島",
+      "flag": "🇲🇭",
+      "sort_name": "Marshall Islands"
+    },
+    {
+      "id": "MR",
+      "code": "MR",
+      "name": "モーリタニア",
+      "flag": "🇲🇷",
+      "sort_name": "Mauritania"
+    },
+    {
+      "id": "MU",
+      "code": "MU",
+      "name": "モーリシャス",
+      "flag": "🇲🇺",
+      "sort_name": "Mauritius"
+    },
+    {
+      "id": "MX",
+      "code": "MX",
+      "name": "メキシコ",
+      "flag": "🇲🇽",
+      "sort_name": "Mexico"
+    },
+    {
+      "id": "FM",
+      "code": "FM",
+      "name": "ミクロネシア連邦",
+      "flag": "🇫🇲",
+      "sort_name": "Micronesia, Federated States of"
+    },
+    {
+      "id": "MD",
+      "code": "MD",
+      "name": "モルドバ",
+      "flag": "🇲🇩",
+      "sort_name": "Moldova, Republic of"
+    },
+    {
+      "id": "MC",
+      "code": "MC",
+      "name": "モナコ",
+      "flag": "🇲🇨",
+      "sort_name": "Monaco"
+    },
+    {
+      "id": "MN",
+      "code": "MN",
+      "name": "モンゴル",
+      "flag": "🇲🇳",
+      "sort_name": "Mongolia"
+    },
+    {
+      "id": "ME",
+      "code": "ME",
+      "name": "モンテネグロ",
+      "flag": "🇲🇪",
+      "sort_name": "Montenegro"
+    },
+    {
+      "id": "MA",
+      "code": "MA",
+      "name": "モロッコ",
+      "flag": "🇲🇦",
+      "sort_name": "Morocco"
+    },
+    {
+      "id": "MZ",
+      "code": "MZ",
+      "name": "モザンビーク",
+      "flag": "🇲🇿",
+      "sort_name": "Mozambique"
+    },
+    {
+      "id": "MM",
+      "code": "MM",
+      "name": "ミャンマー",
+      "flag": "🇲🇲",
+      "sort_name": "Myanmar"
+    },
+    {
+      "id": "NA",
+      "code": "NA",
+      "name": "ナミビア",
+      "flag": "🇳🇦",
+      "sort_name": "Namibia"
+    },
+    {
+      "id": "NR",
+      "code": "NR",
+      "name": "ナウル",
+      "flag": "🇳🇷",
+      "sort_name": "Nauru"
+    },
+    {
+      "id": "NP",
+      "code": "NP",
+      "name": "ネパール",
+      "flag": "🇳🇵",
+      "sort_name": "Nepal"
+    },
+    {
+      "id": "NL",
+      "code": "NL",
+      "name": "オランダ",
+      "flag": "🇳🇱",
+      "sort_name": "Netherlands"
+    },
+    {
+      "id": "NZ",
+      "code": "NZ",
+      "name": "ニュージーランド",
+      "flag": "🇳🇿",
+      "sort_name": "New Zealand"
+    },
+    {
+      "id": "NI",
+      "code": "NI",
+      "name": "ニカラグア",
+      "flag": "🇳🇮",
+      "sort_name": "Nicaragua"
+    },
+    {
+      "id": "NE",
+      "code": "NE",
+      "name": "ニジェール",
+      "flag": "🇳🇪",
+      "sort_name": "Niger"
+    },
+    {
+      "id": "NG",
+      "code": "NG",
+      "name": "ナイジェリア",
+      "flag": "🇳🇬",
+      "sort_name": "Nigeria"
+    },
+    {
+      "id": "MK",
+      "code": "MK",
+      "name": "北マケドニア",
+      "flag": "🇲🇰",
+      "sort_name": "North Macedonia"
+    },
+    {
+      "id": "NO",
+      "code": "NO",
+      "name": "ノルウェー",
+      "flag": "🇳🇴",
+      "sort_name": "Norway"
+    },
+    {
+      "id": "OM",
+      "code": "OM",
+      "name": "オマーン",
+      "flag": "🇴🇲",
+      "sort_name": "Oman"
+    },
+    {
+      "id": "PK",
+      "code": "PK",
+      "name": "パキスタン",
+      "flag": "🇵🇰",
+      "sort_name": "Pakistan"
+    },
+    {
+      "id": "PW",
+      "code": "PW",
+      "name": "パラオ",
+      "flag": "🇵🇼",
+      "sort_name": "Palau"
+    },
+    {
+      "id": "PS",
+      "code": "PS",
+      "name": "パレスチナ",
+      "flag": "🇵🇸",
+      "sort_name": "Palestine, State of"
+    },
+    {
+      "id": "PA",
+      "code": "PA",
+      "name": "パナマ",
+      "flag": "🇵🇦",
+      "sort_name": "Panama"
+    },
+    {
+      "id": "PG",
+      "code": "PG",
+      "name": "パプアニューギニア",
+      "flag": "🇵🇬",
+      "sort_name": "Papua New Guinea"
+    },
+    {
+      "id": "PY",
+      "code": "PY",
+      "name": "パラグアイ",
+      "flag": "🇵🇾",
+      "sort_name": "Paraguay"
+    },
+    {
+      "id": "PE",
+      "code": "PE",
+      "name": "ペルー",
+      "flag": "🇵🇪",
+      "sort_name": "Peru"
+    },
+    {
+      "id": "PH",
+      "code": "PH",
+      "name": "フィリピン",
+      "flag": "🇵🇭",
+      "sort_name": "Philippines"
+    },
+    {
+      "id": "PL",
+      "code": "PL",
+      "name": "ポーランド",
+      "flag": "🇵🇱",
+      "sort_name": "Poland"
+    },
+    {
+      "id": "PT",
+      "code": "PT",
+      "name": "ポルトガル",
+      "flag": "🇵🇹",
+      "sort_name": "Portugal"
+    },
+    {
+      "id": "QA",
+      "code": "QA",
+      "name": "カタール",
+      "flag": "🇶🇦",
+      "sort_name": "Qatar"
+    },
+    {
+      "id": "RO",
+      "code": "RO",
+      "name": "ルーマニア",
+      "flag": "🇷🇴",
+      "sort_name": "Romania"
+    },
+    {
+      "id": "RU",
+      "code": "RU",
+      "name": "ロシア",
+      "flag": "🇷🇺",
+      "sort_name": "Russian Federation"
+    },
+    {
+      "id": "RW",
+      "code": "RW",
+      "name": "ルワンダ",
+      "flag": "🇷🇼",
+      "sort_name": "Rwanda"
+    },
+    {
+      "id": "KN",
+      "code": "KN",
+      "name": "セントクリストファー・ネービス",
+      "flag": "🇰🇳",
+      "sort_name": "Saint Kitts and Nevis"
+    },
+    {
+      "id": "LC",
+      "code": "LC",
+      "name": "セントルシア",
+      "flag": "🇱🇨",
+      "sort_name": "Saint Lucia"
+    },
+    {
+      "id": "VC",
+      "code": "VC",
+      "name": "セントビンセント及びグレナディーン諸島",
+      "flag": "🇻🇨",
+      "sort_name": "Saint Vincent and the Grenadines"
+    },
+    {
+      "id": "WS",
+      "code": "WS",
+      "name": "サモア",
+      "flag": "🇼🇸",
+      "sort_name": "Samoa"
+    },
+    {
+      "id": "SM",
+      "code": "SM",
+      "name": "サンマリノ",
+      "flag": "🇸🇲",
+      "sort_name": "San Marino"
+    },
+    {
+      "id": "ST",
+      "code": "ST",
+      "name": "サントメ・プリンシペ",
+      "flag": "🇸🇹",
+      "sort_name": "Sao Tome and Principe"
+    },
+    {
+      "id": "SA",
+      "code": "SA",
+      "name": "サウジアラビア",
+      "flag": "🇸🇦",
+      "sort_name": "Saudi Arabia"
+    },
+    {
+      "id": "SN",
+      "code": "SN",
+      "name": "セネガル",
+      "flag": "🇸🇳",
+      "sort_name": "Senegal"
+    },
+    {
+      "id": "RS",
+      "code": "RS",
+      "name": "セルビア",
+      "flag": "🇷🇸",
+      "sort_name": "Serbia"
+    },
+    {
+      "id": "SC",
+      "code": "SC",
+      "name": "セーシェル",
+      "flag": "🇸🇨",
+      "sort_name": "Seychelles"
+    },
+    {
+      "id": "SL",
+      "code": "SL",
+      "name": "シエラレオネ",
+      "flag": "🇸🇱",
+      "sort_name": "Sierra Leone"
+    },
+    {
+      "id": "SG",
+      "code": "SG",
+      "name": "シンガポール",
+      "flag": "🇸🇬",
+      "sort_name": "Singapore"
+    },
+    {
+      "id": "SK",
+      "code": "SK",
+      "name": "スロバキア",
+      "flag": "🇸🇰",
+      "sort_name": "Slovakia"
+    },
+    {
+      "id": "SI",
+      "code": "SI",
+      "name": "スロベニア",
+      "flag": "🇸🇮",
+      "sort_name": "Slovenia"
+    },
+    {
+      "id": "SB",
+      "code": "SB",
+      "name": "ソロモン諸島",
+      "flag": "🇸🇧",
+      "sort_name": "Solomon Islands"
+    },
+    {
+      "id": "SO",
+      "code": "SO",
+      "name": "ソマリア",
+      "flag": "🇸🇴",
+      "sort_name": "Somalia"
+    },
+    {
+      "id": "ZA",
+      "code": "ZA",
+      "name": "南アフリカ",
+      "flag": "🇿🇦",
+      "sort_name": "South Africa"
+    },
+    {
+      "id": "SS",
+      "code": "SS",
+      "name": "南スーダン",
+      "flag": "🇸🇸",
+      "sort_name": "South Sudan"
+    },
+    {
+      "id": "ES",
+      "code": "ES",
+      "name": "スペイン",
+      "flag": "🇪🇸",
+      "sort_name": "Spain"
+    },
+    {
+      "id": "LK",
+      "code": "LK",
+      "name": "スリランカ",
+      "flag": "🇱🇰",
+      "sort_name": "Sri Lanka"
+    },
+    {
+      "id": "SD",
+      "code": "SD",
+      "name": "スーダン",
+      "flag": "🇸🇩",
+      "sort_name": "Sudan"
+    },
+    {
+      "id": "SR",
+      "code": "SR",
+      "name": "スリナム",
+      "flag": "🇸🇷",
+      "sort_name": "Suriname"
+    },
+    {
+      "id": "SE",
+      "code": "SE",
+      "name": "スウェーデン",
+      "flag": "🇸🇪",
+      "sort_name": "Sweden"
+    },
+    {
+      "id": "CH",
+      "code": "CH",
+      "name": "スイス",
+      "flag": "🇨🇭",
+      "sort_name": "Switzerland"
+    },
+    {
+      "id": "SY",
+      "code": "SY",
+      "name": "シリア",
+      "flag": "🇸🇾",
+      "sort_name": "Syrian Arab Republic"
+    },
+    {
+      "id": "TJ",
+      "code": "TJ",
+      "name": "タジキスタン",
+      "flag": "🇹🇯",
+      "sort_name": "Tajikistan"
+    },
+    {
+      "id": "TZ",
+      "code": "TZ",
+      "name": "タンザニア",
+      "flag": "🇹🇿",
+      "sort_name": "Tanzania, United Republic of"
+    },
+    {
+      "id": "TH",
+      "code": "TH",
+      "name": "タイ",
+      "flag": "🇹🇭",
+      "sort_name": "Thailand"
+    },
+    {
+      "id": "TL",
+      "code": "TL",
+      "name": "東ティモール",
+      "flag": "🇹🇱",
+      "sort_name": "Timor-Leste"
+    },
+    {
+      "id": "TG",
+      "code": "TG",
+      "name": "トーゴ",
+      "flag": "🇹🇬",
+      "sort_name": "Togo"
+    },
+    {
+      "id": "TO",
+      "code": "TO",
+      "name": "トンガ",
+      "flag": "🇹🇴",
+      "sort_name": "Tonga"
+    },
+    {
+      "id": "TT",
+      "code": "TT",
+      "name": "トリニダード・トバゴ",
+      "flag": "🇹🇹",
+      "sort_name": "Trinidad and Tobago"
+    },
+    {
+      "id": "TN",
+      "code": "TN",
+      "name": "チュニジア",
+      "flag": "🇹🇳",
+      "sort_name": "Tunisia"
+    },
+    {
+      "id": "TM",
+      "code": "TM",
+      "name": "トルクメニスタン",
+      "flag": "🇹🇲",
+      "sort_name": "Turkmenistan"
+    },
+    {
+      "id": "TV",
+      "code": "TV",
+      "name": "ツバル",
+      "flag": "🇹🇻",
+      "sort_name": "Tuvalu"
+    },
+    {
+      "id": "TR",
+      "code": "TR",
+      "name": "トルコ",
+      "flag": "🇹🇷",
+      "sort_name": "Türkiye"
+    },
+    {
+      "id": "UG",
+      "code": "UG",
+      "name": "ウガンダ",
+      "flag": "🇺🇬",
+      "sort_name": "Uganda"
+    },
+    {
+      "id": "UA",
+      "code": "UA",
+      "name": "ウクライナ",
+      "flag": "🇺🇦",
+      "sort_name": "Ukraine"
+    },
+    {
+      "id": "AE",
+      "code": "AE",
+      "name": "アラブ首長国連邦",
+      "flag": "🇦🇪",
+      "sort_name": "United Arab Emirates"
+    },
+    {
+      "id": "GB",
+      "code": "GB",
+      "name": "イギリス",
+      "flag": "🇬🇧",
+      "sort_name": "United Kingdom"
+    },
+    {
+      "id": "US",
+      "code": "US",
+      "name": "アメリカ合衆国",
+      "flag": "🇺🇸",
+      "sort_name": "United States"
+    },
+    {
+      "id": "UY",
+      "code": "UY",
+      "name": "ウルグアイ",
+      "flag": "🇺🇾",
+      "sort_name": "Uruguay"
+    },
+    {
+      "id": "UZ",
+      "code": "UZ",
+      "name": "ウズベキスタン",
+      "flag": "🇺🇿",
+      "sort_name": "Uzbekistan"
+    },
+    {
+      "id": "VU",
+      "code": "VU",
+      "name": "バヌアツ",
+      "flag": "🇻🇺",
+      "sort_name": "Vanuatu"
+    },
+    {
+      "id": "VE",
+      "code": "VE",
+      "name": "ベネズエラ",
+      "flag": "🇻🇪",
+      "sort_name": "Venezuela, Bolivarian Republic of"
+    },
+    {
+      "id": "VN",
+      "code": "VN",
+      "name": "ベトナム",
+      "flag": "🇻🇳",
+      "sort_name": "Viet Nam"
+    },
+    {
+      "id": "YE",
+      "code": "YE",
+      "name": "イエメン",
+      "flag": "🇾🇪",
+      "sort_name": "Yemen"
+    },
+    {
+      "id": "ZM",
+      "code": "ZM",
+      "name": "ザンビア",
+      "flag": "🇿🇲",
+      "sort_name": "Zambia"
+    },
+    {
+      "id": "ZW",
+      "code": "ZW",
+      "name": "ジンバブエ",
+      "flag": "🇿🇼",
+      "sort_name": "Zimbabwe"
+    }
+  ]
+}
